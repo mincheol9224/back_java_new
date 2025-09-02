@@ -5,7 +5,7 @@ package varibleTest;
 
 public class VaribleTask01 {
       public static void main(String[] args) {
- //      내가 값을 모를때는 -> 초기값
+ //      내가 값을 모를때는 -> 초기값 선언
     	  int num1 = 0 , num2 = 0;
     	  boolean isFalse = false, isTrue = false;
     	  double num3 = 0.0;
