@@ -5,13 +5,14 @@ package varibleTest;
 
 public class VariableTask01 {
 	public static void main(String[] args) {
-	int num1 = 0, num2 = 0;
-	boolean istrue = false, isfalse = false;
-	double num3 = 0.0;
-	char data1 = ' ',data2 = ' ',data3 = ' ', data4 = ' ';
-	float num4 = 0.0F;
-	long num5 = 0L;
-	String str1 = "";
+		// 내가 값을 모를 때 -> 초기값을 최상단에 선언한다.
+		int num1 = 0, num2 = 0;
+		boolean istrue = false, isfalse = false;
+		double num3 = 0.0;
+		char data1 = ' ', data2 = ' ', data3 = ' ', data4 = ' ';
+		float num4 = 0.0F;
+		long num5 = 0L;
+		String str1 = "";
 	
 	 
 	  num1 = 5;
