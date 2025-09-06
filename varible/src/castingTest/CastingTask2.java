@@ -12,7 +12,7 @@ public class CastingTask2 {
            
 //         정수 + 정수 + 정수
 //          연결 + 연결 + 연결  
-        System.out.println("" + 1 + (7 + 8));
+     System.out.println("" + 1 + (7 + 8));
      System.out.println("" + num1 + ((int)Double.parseDouble(str1) + (int)Double.parseDouble(str2)));
      
     
