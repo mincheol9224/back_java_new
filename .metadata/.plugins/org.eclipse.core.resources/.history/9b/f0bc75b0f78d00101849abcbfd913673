@@ -1,9 +1,0 @@
-package consoletest;
-
-public class ConsoleTest {
-	public static void main(String[] args) {
-		System.out.println("hello, world!");
-		System.out.println("김세환 병신 새끼!");
-		
-	}
-}
