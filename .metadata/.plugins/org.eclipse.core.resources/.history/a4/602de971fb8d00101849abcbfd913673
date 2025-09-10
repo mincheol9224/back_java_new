@@ -1,0 +1,7 @@
+package varibleTest;
+
+public class VaribleTest {
+	public static void main(String[] args) {
+		String name = "홍길동";
+	}
+}

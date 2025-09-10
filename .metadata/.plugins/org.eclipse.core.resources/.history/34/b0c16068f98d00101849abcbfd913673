@@ -1,0 +1,9 @@
+package consoletest;
+
+public class PrintTest {
+	public static void main(String[] args) {
+		System.out.print("전민철님\"환영\"합니다.\n");
+		System.out.print(33);
+		
+	}
+}
